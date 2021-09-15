@@ -1,6 +1,6 @@
 # razor-1/localizer-cldr
 
-[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/razor-1/localizer-cldr/Build?style=flat-square)](https://github.com/razor-1/localizer-cldr/actions?query=workflow%3ABuild)
+[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/razor-1/localizer-cldr/tests?style=flat-square)](https://github.com/razor-1/localizer-cldr/actions?query=workflow%3Atests)
 [![Go Report Card](https://goreportcard.com/badge/github.com/razor-1/localizer-cldr?style=flat-square)](https://goreportcard.com/report/github.com/razor-1/localizer-cldr)
 ![Go Version](https://img.shields.io/badge/go%20version-%3E=1.15-61CFDD.svg?style=flat-square)
 [![PkgGoDev](https://pkg.go.dev/badge/github.com/razor-1/localizer-cldr)](https://pkg.go.dev/github.com/razor-1/localizer-cldr)
