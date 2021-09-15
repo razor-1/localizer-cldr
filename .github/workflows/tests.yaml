@@ -1,0 +1,14 @@
+name: tests
+on:
+  pull_request:
+    branches: [master]
+jobs:
+  test:
+    name: tests
+    if: github.event.pull_request.draft == false
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+      - name: test
+        run: go test ./...
