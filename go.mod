@@ -4,6 +4,6 @@ go 1.16
 
 require (
 	github.com/imdario/mergo v0.3.13
-	github.com/stretchr/testify v1.7.2
+	github.com/stretchr/testify v1.7.3
 	golang.org/x/text v0.3.7
 )
